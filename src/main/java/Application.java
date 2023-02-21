@@ -33,5 +33,6 @@ public class Application {
         System.out.println("If the array hasn't been instantiated, then a NullPointerException will occur:");
         int[] arr2 = arrayslab.returnNewArraySizeN(4);
         int arr2len = arr2.length;
+    
     }
 }
